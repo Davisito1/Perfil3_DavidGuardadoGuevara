@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "movil_apk",
+    "slug": "movil_apk",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/masterball.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "package": "com.davis2667.movil_apk"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d657ddbf-2b3a-4687-87a3-589325b4c001"
+      }
+    }
+  }
+}
